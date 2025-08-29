@@ -37,8 +37,6 @@ A growing e-commerce company needs to move beyond basic reporting to deeply unde
 
 **[➡️ View the Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/abhinav.faldu/viz/E-CommerceSales_17564669089680/Dashboard1)**
 
-*(Replace the above URL with the link to your published Tableau dashboard.)*
-
 ---
 
 ### 📁 How to Run this Project Locally
