@@ -44,7 +44,7 @@ A growing e-commerce company needs to move beyond basic reporting to deeply unde
 ### 📁 How to Run this Project Locally
 
 1.  **Prerequisites:** Ensure you have Python, PostgreSQL, and Tableau installed.
-2.  **Clone Repository:** `git clone https://github.com/your-username/ecommerce-analytics.git`
+2.  **Clone Repository:** `git clone https://github.com/Abhinavfaldu082/E-commerce_sales`
 3.  **Install Libraries:** `pip install pandas sqlalchemy psycopg2-binary`
 4.  **Database Setup:** Create a PostgreSQL database named `ecommerce_db`.
 5.  **Load Data:** Update the `db_password` in `load_data.py` and run the script: `python load_data.py`.
